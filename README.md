@@ -1,15 +1,15 @@
 ## Ed Powderham
 
-Process and data oritentated autodidact. Looking for opportunities that will involve responsibility for thinking about what will be built, why it will be built as well as the build process.
+Process and data oritentated autodidact. Looking for opportunities that will involve responsibility for thinking about what will be built, why it will be built and the build process.
 
 ## Skills
 
 #### Analytics
 
-3 years corporate experience in strategy-led data analysis and a major in Economics/Econometrics at University have led for an appetite for, and an aptitude in, all things data, visualisation and logical reasoning.
+3 years corporate experience in strategy-led data analysis and a major in Economics/Econometrics at University have led to an appetite for, and an aptitude in, all things data, visualisation and logical reasoning.
 
 - I led a data-driven advertising campaign, with control groups for future learning, at American Express.
-- I was the Data and visualisation SME for a multi-year, international change project for 11 months at Deloitte
+- I was the Data and visualisation lead for a multi-year, international change project for 11 months at Deloitte
 - I hold a first class degree with a major in Economics
 
 
@@ -17,7 +17,7 @@ Process and data oritentated autodidact. Looking for opportunities that will inv
 
 2 years corporate experience as a Tech Consultant with Deloitte creating a wealth of experience as a programme and project manager.
 
-- I oversaw 4 streams of a multi-year post-acquisition change programme at a global software house
+- I oversaw 4 streams of a multi-year, post-acquisition change programme at a global software house
 - Got buy in for and created/hosted visualisations for key metrics in the programme, used across a three year change programme
 
 
